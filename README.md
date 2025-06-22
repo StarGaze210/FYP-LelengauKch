@@ -1,2 +1,2 @@
 # FYP-LelengauKch
-Public hosting of FYP APK installer file, available for Android platform
+Public hosting of FYP files and APK installer file, available for Android platform
